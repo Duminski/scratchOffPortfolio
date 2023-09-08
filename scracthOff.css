@@ -54,10 +54,8 @@
     #maincanvas {
       border: 0px solid #222;
       cursor: arrow;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 80%
+      width: 300px;
+      margin-left: calc(50% - 300px / 2);
     }
   
     h1 { 
