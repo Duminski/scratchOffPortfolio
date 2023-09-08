@@ -31,7 +31,8 @@
   #maincanvas {
     border: 0px solid #222;
     cursor: arrow;
-    margin: 0 34%;
+    width: 800px;
+    margin-left: calc(50% - 800px / 2);
   }
   
   #resetbutton {
