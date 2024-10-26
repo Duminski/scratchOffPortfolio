@@ -1,7 +1,7 @@
 $(document).ready((function() {
 
 var image = { // back and front images
-  'back': { 'url':'./scratch_v2.jpg', 'img':null },
+  'back': { 'url':'./cv.jpg', 'img':null },
 	'front': { 'url':'./scratch.jpg', 'img':null }
 };
 
